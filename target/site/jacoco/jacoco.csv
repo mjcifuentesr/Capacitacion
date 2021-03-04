@@ -2,6 +2,5 @@ GROUP,PACKAGE,CLASS,INSTRUCTION_MISSED,INSTRUCTION_COVERED,BRANCH_MISSED,BRANCH_
 Banco,co.com.ath.banco.registro,registroAhorro,0,3,0,0,0,1,0,1,0,1
 Banco,co.com.ath.banco.registro,registroBAVV,0,16,0,0,0,4,0,3,0,3
 Banco,co.com.ath.banco.consulta,consultasBAVV,0,27,0,2,0,10,0,9,0,8
-Banco,co.com.ath.banco.consulta,consultasBPOP,27,0,2,0,10,0,9,0,8,0
 Banco,co.com.ath.banco.consulta,consultasAhorro,0,3,0,0,0,1,0,1,0,1
 Banco,co.com.ath.banco.consulta.accesoDatos,DataBase,0,7,0,0,0,3,0,3,0,3
