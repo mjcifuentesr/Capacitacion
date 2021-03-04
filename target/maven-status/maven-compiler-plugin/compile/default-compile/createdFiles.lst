@@ -1,8 +1,10 @@
 co\com\ath\banco\registro\registroBAVV.class
 co\com\ath\banco\consulta\consultasAhorro.class
 co\com\ath\banco\registro\registroAhorro.class
+co\com\ath\banco\consulta\beneficiosBPOP.class
 co\com\ath\banco\consulta\consultasBAVV.class
 co\com\ath\banco\consulta\beneficiosBAVV.class
+co\com\ath\banco\consulta\consultasBPOP.class
 co\com\ath\banco\consulta\accesoDatos\accesoDatos.class
 co\com\ath\banco\consulta\accesoDatos\DataBase.class
 co\com\ath\banco\consulta\beneficiosGenerales.class
