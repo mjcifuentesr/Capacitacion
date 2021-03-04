@@ -50,9 +50,4 @@ public class consultasBPOP extends consultasAhorro implements beneficiosGenerale
         return 50000;
     }
 
-    @Override
-    public int consultar(int numCuenta) {
-        throw new UnsupportedOperationException("Not supported yet."); //To change body of generated methods, choose Tools | Templates.
-    }
-    
 }
