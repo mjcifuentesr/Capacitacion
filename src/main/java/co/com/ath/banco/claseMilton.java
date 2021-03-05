@@ -9,10 +9,15 @@ public class claseMilton {
     
     String nombreApellido(String nombre){
         if(nombre.equalsIgnoreCase("milton")){
-            return nombre+"cifuentes";
+            String completo=nombre+" Cifuentes";
+            return completo;
         }else{
             return nombre;
         }
+    }
+    
+    int suma(int i, int o){
+        return i+o;
     }
     
 }
